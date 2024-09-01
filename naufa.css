@@ -312,9 +312,11 @@ div.project{
     background-color: black;
     color: rgb(211, 211, 211);
     padding: 25px;
-    font-family: 20px;
+    font-family: 25px;
     text-align: center;
 }
+
+
 
 *::selection{
     background-color: #03838a;
